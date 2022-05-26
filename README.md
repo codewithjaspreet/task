@@ -1,7 +1,7 @@
 # SOLUTION
 
 Concept used is of # onWillPop
-a callback method that returns a Future value; if true, the screen can be popped; if false, the screen will not be popped out
+a callback method that returns a Future value; if true, the screen can be popped; if false, the screen will not be popped out , so overriding it and making it false will do the job !
 
 Video Preview for the same : 
 
