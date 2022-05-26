@@ -1,7 +1,7 @@
 # newproject
 
-A new Flutter project.
-
+Concept used is of # onWillPop
+a callback method that returns a Future value; if true, the screen can be popped; if false, the screen will not be popped out
 ## Getting Started
 
 This project is a starting point for a Flutter application.
