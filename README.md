@@ -1,7 +1,15 @@
-# newproject
+# SOLUTION
 
 Concept used is of # onWillPop
 a callback method that returns a Future value; if true, the screen can be popped; if false, the screen will not be popped out
+
+Video Preview for the same : 
+
+
+
+https://user-images.githubusercontent.com/85099922/170481755-7bcf344a-ebd5-4a06-a342-72b34be58917.mp4
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
